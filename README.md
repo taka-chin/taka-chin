@@ -2,6 +2,7 @@
 🌱 I’m currently learning C at 42Tokyo
 
 ![:taka-chin](https://count.getloli.com/get/@:ntaka-chin?theme=asoul)
+[![trophy](https://github-profile-trophy.vercel.app/?username=taka-chin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **taka-chin/taka-chin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
