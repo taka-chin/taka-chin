@@ -11,6 +11,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=taka-chin&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 thanks for visiting !
+
 ![:taka-chin](https://count.getloli.com/get/@:ntaka-chin?theme=asoul)
 <!--
 **taka-chin/taka-chin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
