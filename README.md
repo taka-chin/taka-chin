@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning C at 42Tokyo
+🌱 I’m currently learning C,C++ at 42Tokyo
 
 ### I :heart: Vim
 
